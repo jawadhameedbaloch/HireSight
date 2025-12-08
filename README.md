@@ -1,8 +1,8 @@
-# HireSight - Be Seen, Be Hired 👁️
+# HireSight - Be Seen, Be Hired 
 
 **HireSight** is an advanced AI-powered resume screening and matching application designed to streamline the recruitment process. It leverages Natural Language Processing (NLP) and Machine Learning (ML) to analyze resumes against job descriptions (JDs), providing a semantic match score that goes beyond simple keyword matching.
 
-![HireSight Home](screenshots/Screenshot1.png)
+
 
 ##  Features
 
@@ -71,7 +71,7 @@
 
 The project includes a comprehensive analysis pipeline (`notebook/HireSight_full.ipynb`) used for model testing and performance evaluation.
 
-![Analysis Plot](screenshots/Screenshot%202025-12-08%20211953.png)
+
 
 ##  Contributing
 
