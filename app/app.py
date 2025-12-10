@@ -8,7 +8,7 @@ import base64
 # ------------------------------------------------------------------------------
 # Configuration & Styling
 # ------------------------------------------------------------------------------
-st.set_page_config(page_title="HireSight", page_icon="👁️", layout="wide")
+st.set_page_config(page_title="HireSight", page_icon="favicon (2).ico", layout="wide")
 
 # Fix for potential threading/tokenizer issues
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
