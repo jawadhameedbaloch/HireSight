@@ -2,7 +2,8 @@
 
 **HireSight** is an advanced AI-powered resume screening and matching application designed to streamline the recruitment process. It leverages Natural Language Processing (NLP) and Machine Learning (ML) to analyze resumes against job descriptions (JDs), providing a semantic match score that goes beyond simple keyword matching.
 
-
+## Live site
+https://hiresight.streamlit.app 
 
 ##  Features
 
